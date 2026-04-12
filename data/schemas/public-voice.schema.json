@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PublicVoice",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "githubLogin": { "type": "string" },
+    "displayName": { "type": "string" },
+    "message": { "type": "string" },
+    "updatedAt": { "type": "string" }
+  },
+  "required": ["githubLogin", "message", "updatedAt"]
+}

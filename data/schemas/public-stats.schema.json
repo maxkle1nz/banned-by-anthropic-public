@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PublicStats",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "updatedAt": { "type": "string" },
+    "totalCases": { "type": "integer", "minimum": 0 },
+    "publicCases": { "type": "integer", "minimum": 0 },
+    "publicVoices": { "type": "integer", "minimum": 0 }
+  },
+  "required": ["updatedAt", "totalCases", "publicCases", "publicVoices"]
+}
