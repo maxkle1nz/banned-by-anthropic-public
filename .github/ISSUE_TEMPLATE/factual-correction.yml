@@ -1,0 +1,19 @@
+name: Factual correction
+description: Request a factual correction in the public archive
+title: "[Correction] "
+labels: [correction]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: What needs correction?
+      description: Be precise and include links to the affected file or line when possible.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting context
+      description: Share public supporting context only. Do not post private personal data.
+    validations:
+      required: false

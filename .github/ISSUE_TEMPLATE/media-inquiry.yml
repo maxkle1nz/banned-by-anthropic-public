@@ -1,0 +1,19 @@
+name: Media inquiry
+description: Contact regarding press or research coverage
+title: "[Media] "
+labels: [media]
+body:
+  - type: textarea
+    id: request
+    attributes:
+      label: Inquiry
+      description: Describe your outlet, angle, and what you need.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact
+      description: Public or professional contact details only.
+    validations:
+      required: true

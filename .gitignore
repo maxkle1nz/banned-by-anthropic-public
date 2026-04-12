@@ -1,0 +1,23 @@
+# never commit secrets or local ops artifacts
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# local runtime / data
+node_modules/
+dist/
+pb_data/
+pb_public/
+exports/
+coverage/
+
+# macOS
+.DS_Store
+
+# logs
+*.log
