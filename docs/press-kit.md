@@ -4,6 +4,8 @@
 
 BANNED BY ANTHROPIC is a public archive of documented cases from builders and users affected by Anthropic enforcement actions.
 
+Initiated and edited by Max Kleinschmidt.
+
 ## What this repository provides
 
 - campaign framing
@@ -27,3 +29,7 @@ BANNED BY ANTHROPIC is a public archive of documented cases from builders and us
 ## Contact
 
 For now, use the media inquiry issue template in this repository.
+
+## Attribution
+
+Initiated and edited by Max Kleinschmidt.

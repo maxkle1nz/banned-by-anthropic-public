@@ -4,6 +4,8 @@ BANNED BY ANTHROPIC is a public archive of documented cases from builders and us
 
 This repository is the **public institutional face** of the campaign.
 
+Initiated and edited by **Max Kleinschmidt**.
+
 It exists to make the record:
 - visible
 - citable
@@ -51,6 +53,7 @@ It exists to make the record:
 - Submit a case: https://bannedbyanthropic.com/
 - Official site: https://bannedbyanthropic.com/
 - Press / research: open a GitHub issue in this repository
+- Initiator / editor: Max Kleinschmidt
 
 ## If this matters
 
