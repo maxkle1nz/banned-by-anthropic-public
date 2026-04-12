@@ -41,7 +41,10 @@ It exists to make the record:
 - [Methodology](docs/methodology.md)
 - [Privacy Boundaries](docs/privacy-boundaries.md)
 - [Publication Policy](docs/publication-policy.md)
+- [FAQ](docs/faq.md)
+- [Press Kit](docs/press-kit.md)
 - [Timeline](docs/timeline.md)
+- [Launch Update](updates/2026-04-12-launch.md)
 
 ## Official links
 
