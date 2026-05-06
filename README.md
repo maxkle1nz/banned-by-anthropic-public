@@ -1,16 +1,26 @@
 # BANNED BY ANTHROPIC
 
-BANNED BY ANTHROPIC is a public archive of documented cases from builders and users affected by Anthropic enforcement actions.
+BANNED BY ANTHROPIC is an independent public record of documented Claude and Anthropic account lockouts, restrictions, refunds, and disabled-organization incidents.
 
-This repository is the **public institutional face** of the campaign.
+Official site: **https://bannedbyanthropic.com/**
 
-Initiated and edited by **Max Kleinschmidt**.
+This repository is the public archive for the project. It is maintained so affected users, journalists, researchers, and reviewers can cite the record without relying on screenshots, rumors, or scattered posts.
 
-It exists to make the record:
-- visible
-- citable
-- versioned
-- harder to dismiss as rumor
+Initiated and edited by **[Max "Kle1nz" Kleinschmidt](https://x.com/kle1nzzz)**.
+
+## What this is
+
+- a public reference point for documented incidents
+- a versioned archive of the project's public methodology and updates
+- a place to request factual corrections to public project material
+- a source that can be cited when discussing the pattern of reported lockouts
+
+## What this is not
+
+- not Anthropic support
+- not a law firm or legal service
+- not a promise that every account can be restored
+- not a dump of private reports, emails, billing details, or raw exports
 
 ## What lives here
 
@@ -21,13 +31,18 @@ It exists to make the record:
 - official updates
 - press/research reference material
 
-## What does NOT live here
+## Privacy boundaries
 
-- the intake backend
-- private reports or raw exports
-- moderation internals
-- admin tooling
-- infrastructure or secrets
+- private contact details are not published here
+- private counted cases can affect totals without exposing identity
+- raw submissions, billing details, account IDs, and private screenshots do not belong in this repository
+- public case pages should contain only information the contributor chose to publish
+
+## Corrections and removals
+
+Open an issue if a public page, document, or repository file needs correction. Include the public URL, the inaccurate text, and the correction requested.
+
+Requests involving private account details should not be posted publicly. Use the project contact channels on the official site.
 
 ## Principles
 
@@ -53,7 +68,7 @@ It exists to make the record:
 - Submit a case: https://bannedbyanthropic.com/
 - Official site: https://bannedbyanthropic.com/
 - Press / research: open a GitHub issue in this repository
-- Initiator / editor: Max Kleinschmidt
+- Initiator / editor: https://x.com/kle1nzzz
 
 ## If this matters
 
